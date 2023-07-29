@@ -1,0 +1,34 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.complex-navbar {
+  border-bottom: 1px solid rgb(238, 238, 238);
+  position: sticky;
+  top: 0px;
+  height: 86px;
+  background-color: white;
+}
+.vertical-line1 {
+  border-left: 1px solid rgb(238, 238, 238);
+  height: 100%;
+}
+.search-bar {
+  padding: 10px;
+  color: rgb(238, 238, 238);
+}
+.search-bar > input {
+  outline: none;
+  color: rgb(238, 238, 238);
+}
+.sections > p {
+  padding: 10px;
+}
+.flex-container {
+  display: flex;
+}
+.flex-box {
+  background-color: white;
+  width: 100px;
+  height: 100px;
+}
